@@ -1,6 +1,6 @@
 # awesome-checker
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A probot app which checks whether PRs submitted on awesome repos have github links which have enough stars
+> A GitHub App to check if a github link added in the PR has enough stars or not.
 
 ## Setup
 
